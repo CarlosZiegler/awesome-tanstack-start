@@ -27,15 +27,14 @@ Inspired by [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-u
       <th>Name</th>
       <th>Description</th>
       <th>Link</th>
-      <th>Date</th>
     </tr>
+
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>tanstack-better-auth</td>
+      <td>TanStack Start with Better Auth</td>
+      <td>https://github.com/jherr/tanstack-better-auth</td>
     </tr>
   </tbody>
 </table>
