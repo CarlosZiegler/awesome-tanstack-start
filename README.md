@@ -49,12 +49,10 @@ Inspired by [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-u
       <th>Name</th>
       <th>Description</th>
       <th>Link</th>
-      <th>Date</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -71,7 +69,7 @@ Have a project, template, or tool built with TanStack Start? Feel free to open a
 Please follow this structure:
 
 ```md
-| [ProjectName](link) | Short description | Stack: Next.js, TanStack Router, etc. | [Repo](link) | [Demo](link) |
+| Project Name | Short description | [Repo](link)|
 ```
 
 Make sure your entry is:
